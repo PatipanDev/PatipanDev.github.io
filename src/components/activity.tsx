@@ -61,7 +61,7 @@ export default function Activity() {
   ];
 
   return (
-    <section className="py-12" id="activity">
+    <section className="py-12" id="activities">
       <div className="max-w-7xl mx-auto px-6">
         <h2 className="textcl text-3xl font-bold text-gray-800 mb-10 text-center">
           Activities

@@ -19,10 +19,10 @@ export default function Header() {
                             <a href="#projects" className="hover:text-blue-400 transition duration-150">Projects</a>
                         </li>
                         <li>
-                            <a href="#activity" className="hover:text-blue-400 transition duration-150">Activity</a>
+                            <a href="#activities" className="hover:text-blue-400 transition duration-150">Activities</a>
                         </li>
                         <li>
-                            <a href="#certificate" className="hover:text-blue-400 transition duration-150">Certificate</a>
+                            <a href="#certificate" className="hover:text-blue-400 transition duration-150">Certificates</a>
                         </li>
                         <li>
                             <a href="#contact" className="hover:text-blue-400 transition duration-150">Contact</a>
