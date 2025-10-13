@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import { Mail, Phone, MapPin, Linkedin, Github } from "lucide-react";
+import { Mail, Phone, MapPin, Github } from "lucide-react";
 
 export default function Contact() {
   return (
@@ -51,14 +51,14 @@ export default function Contact() {
 
         {/* Social Links */}
         <div className="mt-12 flex justify-center gap-6">
-          <a
+          {/* <a
             href="https://www.linkedin.com/in/patipanareyukong"
             target="_blank"
             rel="noopener noreferrer"
             className="textcl text-gray-500 hover:text-indigo-600 transition"
           >
             <Linkedin className="w-7 h-7" />
-          </a>
+          </a> */}
 
           <a
             href="https://github.com/PatipanDev"
