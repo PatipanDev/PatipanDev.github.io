@@ -15,12 +15,12 @@ export default function Contact() {
         <div className="grid md:grid-cols-3 gap-8 ">
           {/* Email */}
           <a
-            href="mailto:ppoonndd55@gmail.com"
+            href="mailto:patipanareyukong@gmail.com"
             className=" rounded-2xl p-6 hover:shadow-lg block transform transition-transform duration-300 hover:scale-110"
           >
             <Mail className="w-10 h-10 text-indigo-600 mx-auto mb-3" />
             <h3 className="textcl text-lg font-semibold mb-2">Email</h3>
-            <p className="textcl text-gray-500">ppoonndd55@gmail.com</p>
+            <p className="textcl text-gray-500">patipanareyukong@gmail.com</p>
           </a>
 
           {/* Phone */}
